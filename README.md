@@ -1,2 +1,2 @@
-# app-demo
-learning git-1
+# Crud-Demo
+Spring notes
